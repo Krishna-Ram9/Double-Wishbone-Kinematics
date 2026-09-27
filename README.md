@@ -77,7 +77,7 @@ ACHIEVED vs TARGET (front RC 44.1 / cg -1.22 / spread 32.0; rear RC 81.9 / cg -1
   rear : RC  81.90 mm | camber  -1.28 deg/25mm | spread  10.35 mm | FVSA  1127.1 mm | min clearance   5.2 mm
 ```
 
-![Calibrator output](docs/calibrate_output.png)
+![Calibrator output](c:\Users\Krish\Downloads\Projects\Double-Wishbone-Kinematics\calibrate_output.png)
 
 ## Running it
 
