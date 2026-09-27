@@ -49,10 +49,8 @@ Ground plane Y = −107.2 (CAD) · Wheelbase 1564.25 mm · CG height 248 mm
 
 Both corners gain negative camber in bump, which is the desired direction.
 
-![Interactive tool output](<img width="1063" height="655" alt="interactive_tool_menu" src="https://github.com/user-attachments/assets/9f70616f-c1f9-4627-aede-83beeaa5cb97" />
-)
-![Full kinematics report](<img width="1318" height="717" alt="double_wishbone_report" src="https://github.com/user-attachments/assets/f1cd6d2f-aa49-4011-a234-e454f9660d75" />
-)
+![Interactive tool output](interactive_tool_menu.png)
+![Full kinematics report](double_wishbone_report.png)
 
 ### Travel curves
 
@@ -61,8 +59,7 @@ travel. Front RC crosses zero and goes negative in deep bump; rear RC
 stays flatter and holds a small positive migration spread — the kind
 of behaviour that's easy to miss from a single static CAD measurement.
 
-![Travel curves](<img width="1872" height="645" alt="travel_curves" src="https://github.com/user-attachments/assets/952574c0-d3c9-4e1d-86dd-646f079d3a4c" />
-)
+![Travel curves](travel_curves.png)
 
 ## Hardpoint optimizer
 
@@ -80,8 +77,7 @@ ACHIEVED vs TARGET (front RC 44.1 / cg -1.22 / spread 32.0; rear RC 81.9 / cg -1
   rear : RC  81.90 mm | camber  -1.28 deg/25mm | spread  10.35 mm | FVSA  1127.1 mm | min clearance   5.2 mm
 ```
 
-![Calibrator output](<img width="1395" height="297" alt="calibrate_output" src="https://github.com/user-attachments/assets/2f19feba-d77f-46f0-b808-38f635742f26" />
-)
+![Calibrator output](calibrate_output.png)
 
 ## Running it
 
